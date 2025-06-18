@@ -253,3 +253,8 @@ b {
   text-align: left;
   margin-right: 20px;
 }
+
+.formula-text {
+  overflow-wrap: break-word;
+  text-align: center;
+}
